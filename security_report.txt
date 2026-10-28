@@ -1,0 +1,7 @@
+LOGIN SUMMARY REPORT
+=============================================
+Total log records: 12
+Successful logins: 7
+Failed logins: 5
+Different IP addresses: 7
+Different usernames: 5
